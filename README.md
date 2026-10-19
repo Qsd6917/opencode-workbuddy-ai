@@ -1,5 +1,7 @@
 # opencode-workbuddy-ai
 
+English | [简体中文](README.zh-CN.md)
+
 [OpenCode 2](https://opencode.ai) provider plugin for **WorkBuddy AI** — the
 international build of Tencent's WorkBuddy desktop agent (`www.workbuddy.ai`).
 
